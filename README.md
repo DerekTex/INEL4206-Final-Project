@@ -1,4 +1,7 @@
 # INEL4206 Final Project: Is the AC on?
+*Maria Isabel Rijos* 
+*Gabriel Lozada*
+*Derek Texeira*
 
 Project Description:
 * The aim of this project is to develop an array of temperature censors 
