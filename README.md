@@ -1,4 +1,5 @@
 # INEL4206 Final Project: Is the AC on?
+#C7BAD6
 - *Maria Isabel Rijos* 
 * *Gabriel Lozada*
 + *Derek Texeira*
