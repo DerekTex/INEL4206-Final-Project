@@ -23,3 +23,7 @@ The software that we uses for the project are:
 * [Aedes_MQTS]()
 + PlataformIO
 ## SERVICES:
+ The services that we uses for the project are:
+ * [AWS_Server]()
+ - [WHOIS]()
+ 
