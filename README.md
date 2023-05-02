@@ -12,8 +12,8 @@ will be available for examination through a website; in there the user
 will be able to see the current temperature as well as it's history from 
 the first measure recorded.
 ## MATERIALS:
-* Use this link to see the model of ESP32 and materials  that we used for the project.
-- [ESP32](https://www.amazon.com/dp/B09BC5B4H6?ref=ppx_pop_mob_ap_share) that we used for the project.
+Use this link to see the model of ESP32 and materials  that we used for the project.
+- [ESP32](https://www.amazon.com/dp/B09BC5B4H6?ref=ppx_pop_mob_ap_share)
 ## SOFTWARE:
 * The software that we uses for the project are: 
 - [GitHub](https://github.com/DerekTex/INEL4206-Final-Project)
