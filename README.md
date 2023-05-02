@@ -21,3 +21,5 @@ The software that we uses for the project are:
 + Visual Studio Code aplication 
 - [Ubuntu]()
 * [Aedes_MQTS]()
++ PlataformIO
+## SERVICES:
