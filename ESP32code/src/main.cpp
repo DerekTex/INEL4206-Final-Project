@@ -127,6 +127,7 @@ void loop()
   }
   client.publish(TempC, String(tempC).c_str());
   client.publish(TempF, String(tempF).c_str());
+  client.publish(getSonar,String())
   client.loop();
 }
 
