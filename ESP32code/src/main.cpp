@@ -2,13 +2,13 @@
 #include <PubSubClient.h>
 #include <WiFi.h>
 #include <driver/gpio.h>
-#include  <freeRTOS/FreeRTOS.h>
+#include <freeRTOS/FreeRTOS.h>
 
 #define GPIO_NUMBER_36
 #define GPIO_NUMBER_32
 #define LED_BUILTIN 2
-#define WIFI_NAME "RUMNETEP"
-#define WIFI_PASSWORD "4UPRrum2022"
+#define WIFI_NAME "Gabriel's Galaxy S23"
+#define WIFI_PASSWORD "ddfe1234"
 #define WIFI_TIMEOUT 10000
 
 const char *mqttServer = "esp32proj.space";
@@ -71,7 +71,7 @@ void connectToBroker()
     {
       Serial.print("Failed to connect ");
       Serial.print(client.state());
-      delay(1000);
+      delay(5000);
     }
   }
 }
