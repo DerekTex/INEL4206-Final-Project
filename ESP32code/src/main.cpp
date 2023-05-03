@@ -181,10 +181,21 @@ void loop()
   }
   
   float distance = getSonar();
-  if (distance < prevDistance)
-  {
+  if (distance < prevDistance) {
+  if(countup == true) {
     people++;
+    if (people >= 5) {
+      countup = false;
+    }
+  } else if (countup == false) {
+    people--;
+    if (people == 0) {
+      countup = true;
+    }
   }
+} else if (distance == prevDistance) {
+  people = people;
+}
   prevDistance = distance;
 
   Serial.printf("People in the room: %d \tCalibration: %d  \tTemperature : %.2fC    %.2fF\n", people, calibration, tempC, tempF);
