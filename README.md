@@ -19,11 +19,11 @@ The software that we uses for the project are:
 - [GitHub](https://github.com/DerekTex/INEL4206-Final-Project)
 * [NodeRed](http://esp32proj.space:1880/ui/#!/0?socketid=20mpFYsP1RtGDG4JAAHi)
 + Visual Studio Code aplication 
-- [Ubuntu]()
-* [Aedes_MQTS]()
-+ PlataformIO
+- [Ubuntu](https://ubuntu.com/about)
+* Aedes_MQTS
++ [PlataformIO](https://platformio.org/)
 ## SERVICES:
  The services that we uses for the project are:
- * [AWS_Server]()
- - [WHOIS]()
+ * [AWS_Server](https://aws.amazon.com/lightsail/)
+ - [WHOIS](https://www.whois.com/)
  
